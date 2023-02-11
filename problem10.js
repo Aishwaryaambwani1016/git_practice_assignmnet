@@ -1,6 +1,6 @@
 // palindrome
 
-let str="Aishwarya";
+let str="aishwarya";
 let a="";
    for(let i=str.length-1;i>=0;i--){
         a=a+str[i];
